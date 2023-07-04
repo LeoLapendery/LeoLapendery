@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Léopold Lapendéry</h1>
 <h3 align="center">🚀 Web Developer 🚀</h3>
 <div align="center">
-<a href="&link=https://fr.linkedin.com/in/l%C3%A9opold-lapend%C3%A9ry-9a1645222">
+<a href="https://fr.linkedin.com/in/l%C3%A9opold-lapend%C3%A9ry-9a1645222">
 
 ![Linkedin](http://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=ffffff) 
 </a>
