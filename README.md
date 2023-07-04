@@ -1,14 +1,18 @@
 <h1 align="center"> Hello, I'm Léopold Lapendéry</h1>
 <h3 align="center">🚀 Web Developer 🚀</h3>
+<div align="center">
 
-##
+![https://fr.linkedin.com/in/l%C3%A9opold-lapend%C3%A9ry-9a1645222](http://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=ffffff) ![Gmail](http://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
+
+## About me
 
 - 🔭 I’m currently working at e-Obs Technologies
 - 🌱 Learning React & Symfony
 - 💬 Happy to learn new stuff !
 
 - ⚡ Working on ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
+  
 ## Some Technologies I use
 <div align="left">
     <img  alt="symfony" src ="https://img.shields.io/badge/Symfony-%2320232a?style=for-the-badge&logo=symfony&logoColor=white"/>
